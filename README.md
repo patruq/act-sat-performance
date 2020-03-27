@@ -6,7 +6,7 @@ Our first module in DSI covers:
 - basic statistics (distributions, confidence intervals, hypothesis testing)
 - many Python programming concepts
 - programmatically interacting with files and directories
-- visualizations
+- visualizations2
 - EDA
 - working with Jupyter notebooks for development and reporting
 
