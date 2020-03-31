@@ -8,13 +8,16 @@
 
 Contents:
 
-- 2017 Data Import & Cleaning
-- 2018 Data Import and Cleaning
+- Data Import & Cleaning
+
+  - Imported data. Verified data types, input values, column lengths, and overall integrity of the data set. Errors were fixed and columns were reformatted and renamed to ensure ease of use for data analysis and exploration. This process was performed on data from both years available.
 - Exploratory Data Analysis
+
+    - Summary statistics were interpreted for data. Filters and Sorting were applied to the Dataframe to investigate relationships between metrics of the data. For example, we queried the data using conditional statements (i.e. looking for max values in a given column), to return values central to understanding relationships and trends in participation and total scores across states.
+    - ### Our key finding revealing in our exploration is the strong, negative correlation between participation and total SAT score.
 - Data Visualization
-- Descriptive and Inferential Statistics
-- Outside Research
-- Conclusions and Recommendations
+
+    - Distribution, scatter, and box plot charts were created to visualize findings of the data exploration.
 
 -------------------------------------------------
 ### <b>SAT Data Dictionary</b>:
